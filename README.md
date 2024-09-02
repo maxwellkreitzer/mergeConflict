@@ -1,2 +1,2 @@
 # mergeConflict
-Hey this is an edit
+this is a different edit
